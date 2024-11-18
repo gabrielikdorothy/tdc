@@ -1,0 +1,535 @@
+
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  @@*                                     *@@   ******  pool.rplant.xyz ******
+ @@                                         @@
+ @@    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    @@  Newborns CPU&GPU altcoins
+ @@   .@(                             /@.   @@
+ @@   .@(                             /@.   @@    - lowdiff ports
+ @@   .@(               /             /@.   @@
+ @@   .@(       @@     ,@    @@       /@.   @@    - without registration
+ @@   .@(              ,@             /@.   @@
+ @@   .@(              ,@             /@.   @@    - 1% pool fee for all coins
+ @@   .@(              ,@             /@.   @@
+ @@   .@(           @@@@@             /@.   @@    - fair payments every hour
+ @@   .@(                             /@.   @@
+ @@   .@(        @@         @@        /@.   @@    - dedicated servers
+ @@   .@(         @@@@@@@@@@@         /@.   @@
+ @@   .@(                             /@.   @@    - Europe, Russia, Asia,
+ @@   .@(                             /@.   @@      North-America stratums
+ @@    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    @@
+ @@                                         @@    - SSL ports
+ @@                                         @@
+ @@   .@(  @@   @@        &&&&&&&&&&&&&&    @@    Discord:
+ @@    /    ,                               @@       https://discord.gg/eHzNXmp
+ @@                                         @@    Telegram:
+ @@                                         @@       https://t.me/RPLANT_POOL
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @&                                 &@      ******  pool.rplant.xyz ******
+     @&                                 &@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&
+
+Donations:
+BTC  1Bkg23fU9EnazGw2yyYVwQKHmjq1MRsEx4
+LTC  MSAf4idBNJQ4mfPDqAR5uycAkVRBi3AxjD
+DOGE DQxJHVR7ZGFbpnpbHrXUEzJsovJvoGz633
+
+         **********  cpuminer-rplant 5.0.27L-avx2 *********** 
+CPU: AMD EPYC 7763 64-Core Processor                 VM
+SW built on Feb 23 2022 with GCC 9.4.0
+CPU features:  AVX2   VAES SHA
+SW features:   AVX2    AES
+Algo features: SSE2   SHA
+
+Starting miner with SSE2...
+
+[2024-11-18 16:29:06][36m Stratum connect 47.89.195.104:443[0m
+[2024-11-18 16:29:06] Miner thread priority 0 (nice 19)[0m
+[2024-11-18 16:29:06] 2 of 2 miner threads started using 'yespowerTIDE' algorithm[0m
+[2024-11-18 16:29:08] Extranonce subscription enabled[0m
+[2024-11-18 16:29:08][36m Stratum connection established[0m
+[2024-11-18 16:29:08][36m New stratum difficulty 0.7[0m
+[2024-11-18 16:29:08][36m 47.89.195.104:443 yespowerTIDE block 1806887, job 9ae8, network diff 0.25639872[0m
+[2024-11-18 16:29:10][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:29:12][01;37m Share 1 submitted diff 0.000035, block 1806887, job 9ae8[0m
+[2024-11-18 16:29:12][01;37m [01;37m[32mAccepted [01;37m1/1 (100.0%), diff 0.00003511, 1293.54 H/s, 5.427 sec (350ms)[0m
+[2024-11-18 16:29:21][01;37m Share 2 submitted diff 0.000011, block 1806887, job 9ae8[0m
+[2024-11-18 16:29:22][01;37m [01;37m[32mAccepted [01;37m2/2 (100.0%), diff 0.00001083, 1293.54 H/s, 9.488 sec (348ms)[0m
+[2024-11-18 16:29:30][01;37m Share 3 submitted diff 0.000031, block 1806887, job 9ae8[0m
+[2024-11-18 16:29:31][01;37m [01;37m[32mAccepted [01;37m3/3 (100.0%), diff 0.00003086, 1293.54 H/s, 9.196 sec (347ms)[0m
+[2024-11-18 16:30:10][36m 47.89.195.104:443 yespowerTIDE block 1806888, job 9aea, network diff 0.25639872[0m
+[2024-11-18 16:30:27][01;37m Share 4 submitted diff 0.000023, block 1806888, job 9aea[0m
+[2024-11-18 16:30:28][01;37m Share 5 submitted diff 0.000032, block 1806888, job 9aea[0m
+[2024-11-18 16:30:28][01;37m [01;37m[32mAccepted [01;37m4/5 (80.0%), diff 0.00002280, 1284.45 H/s, 56.869 sec (349ms)[0m
+[2024-11-18 16:30:28][01;37m [01;37m[32mAccepted [01;37m5/5 (100.0%), diff 0.00003186, 1284.45 H/s, 0.334 sec (349ms)[0m
+[2024-11-18 16:30:57][01;37m Share 6 submitted diff 0.000041, block 1806888, job 9aea[0m
+[2024-11-18 16:30:58][01;37m [01;37m[32mAccepted [01;37m6/6 (100.0%), diff 0.00004053, 1284.45 H/s, 29.491 sec (347ms)[0m
+[2024-11-18 16:31:05][36m New stratum difficulty 0.5[0m
+[2024-11-18 16:31:07][01;37m Share 7 submitted diff 0.000009, block 1806888, job 9aeb[0m
+[2024-11-18 16:31:08][01;37m [01;37m[32mAccepted [01;37m7/7 (100.0%), diff 0.00000891, 1275.96 H/s, 10.245 sec (349ms)[0m
+[2024-11-18 16:31:43][36m 47.89.195.104:443 yespowerTIDE block 1806889, job 9aec, network diff 0.25639872[0m
+[2024-11-18 16:31:43][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:31:49][01;37m Share 8 submitted diff 0.000010, block 1806889, job 9aec[0m
+[2024-11-18 16:31:49][01;37m [01;37m[32mAccepted [01;37m8/8 (100.0%), diff 0.00001010, 1281.65 H/s, 41.593 sec (348ms)[0m
+[2024-11-18 16:32:01][36m 47.89.195.104:443 yespowerTIDE block 1806890, job 9aed, network diff 0.25639872[0m
+[2024-11-18 16:32:07][36m 47.89.195.104:443 yespowerTIDE block 1806891, job 9aee, network diff 0.25639872[0m
+[2024-11-18 16:32:15][01;37m Share 9 submitted diff 0.000110, block 1806891, job 9aee[0m
+[2024-11-18 16:32:16][01;37m [01;37m[32mAccepted [01;37m9/9 (100.0%), diff 0.00010967, 1296.03 H/s, 26.336 sec (348ms)[0m
+[2024-11-18 16:32:40][01;37m Share 10 submitted diff 0.000010, block 1806891, job 9aee[0m
+[2024-11-18 16:32:40][01;37m [01;37m[32mAccepted [01;37m10/10 (100.0%), diff 0.00000963, 1296.03 H/s, 24.469 sec (349ms)[0m
+[2024-11-18 16:33:14][01;37m Share 11 submitted diff 0.000018, block 1806891, job 9aef[0m
+[2024-11-18 16:33:14][01;37m [01;37m[32mAccepted [01;37m11/11 (100.0%), diff 0.00001757, 1278.68 H/s, 34.066 sec (347ms)[0m
+[2024-11-18 16:33:41][36m 47.89.195.104:443 yespowerTIDE block 1806892, job 9af0, network diff 0.25639872[0m
+[2024-11-18 16:33:46][01;37m Share 12 submitted diff 0.000012, block 1806892, job 9af0[0m
+[2024-11-18 16:33:46][01;37m [01;37m[32mAccepted [01;37m12/12 (100.0%), diff 0.00001170, 1250.86 H/s, 32.242 sec (347ms)[0m
+[2024-11-18 16:33:59][01;37m Share 13 submitted diff 0.000009, block 1806892, job 9af0[0m
+[2024-11-18 16:33:59][01;37m [01;37m[32mAccepted [01;37m13/13 (100.0%), diff 0.00000880, 1250.86 H/s, 12.699 sec (348ms)[0m
+[2024-11-18 16:34:04][01;37m Share 14 submitted diff 0.000094, block 1806892, job 9af0[0m
+[2024-11-18 16:34:05][01;37m [01;37m[32mAccepted [01;37m14/14 (100.0%), diff 0.00009422, 1250.86 H/s, 5.598 sec (346ms)[0m
+[2024-11-18 16:34:12][01;37m Share 15 submitted diff 0.000030, block 1806892, job 9af0[0m
+[2024-11-18 16:34:13][01;37m [01;37m[32mAccepted [01;37m15/15 (100.0%), diff 0.00003018, 1250.86 H/s, 7.780 sec (347ms)[0m
+[2024-11-18 16:34:13][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m06s        5m06s[0m
+                      Share rate        2.94/min     2.94/min[0m
+                      Hash rate       1605.33h/s   1863.28h/s   (1250.86h/s)[0m
+                      Submitted            15           15[0m
+                      Accepted             15           15[0m
+                      Hi/Lo Share Diff  0.00010967 /  0.00000880[0m
+[2024-11-18 16:34:15][01;37m Share 16 submitted diff 0.000313, block 1806892, job 9af0[0m
+[2024-11-18 16:34:16][01;37m [01;37m[32mAccepted [01;37m16/16 (100.0%), diff 0.00031265, 1250.86 H/s, 3.145 sec (350ms)[0m
+[2024-11-18 16:34:36][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:34:54][01;37m Share 17 submitted diff 0.000010, block 1806892, job 9af1[0m
+[2024-11-18 16:34:55][01;37m [01;37m[32mAccepted [01;37m17/17 (100.0%), diff 0.00000974, 1274.62 H/s, 39.126 sec (346ms)[0m
+[2024-11-18 16:35:11][36m 47.89.195.104:443 yespowerTIDE block 1806893, job 9af2, network diff 0.25639872[0m
+[2024-11-18 16:35:12][01;37m Share 18 submitted diff 0.000010, block 1806893, job 9af2[0m
+[2024-11-18 16:35:12][01;37m [01;37m[32mAccepted [01;37m18/18 (100.0%), diff 0.00001018, 1280.57 H/s, 17.398 sec (347ms)[0m
+[2024-11-18 16:35:33][36m 47.89.195.104:443 yespowerTIDE block 1806894, job 9af3, network diff 0.25639872[0m
+[2024-11-18 16:36:06][01;37m Share 19 submitted diff 0.000021, block 1806894, job 9af3[0m
+[2024-11-18 16:36:06][01;37m [01;37m[32mAccepted [01;37m19/19 (100.0%), diff 0.00002096, 1283.74 H/s, 53.859 sec (350ms)[0m
+[2024-11-18 16:36:23][36m 47.89.195.104:443 yespowerTIDE block 1806895, job 9af4, network diff 0.25639872[0m
+[2024-11-18 16:36:41][01;37m Share 20 submitted diff 0.000008, block 1806895, job 9af4[0m
+[2024-11-18 16:36:41][01;37m [01;37m[32mAccepted [01;37m20/20 (100.0%), diff 0.00000785, 1279.98 H/s, 34.922 sec (349ms)[0m
+[2024-11-18 16:36:44][01;37m Share 21 submitted diff 0.000008, block 1806895, job 9af4[0m
+[2024-11-18 16:36:45][01;37m [01;37m[32mAccepted [01;37m21/21 (100.0%), diff 0.00000791, 1279.98 H/s, 3.843 sec (346ms)[0m
+[2024-11-18 16:36:49][01;37m Share 22 submitted diff 0.000037, block 1806895, job 9af4[0m
+[2024-11-18 16:36:49][01;37m [01;37m[32mAccepted [01;37m22/22 (100.0%), diff 0.00003721, 1279.98 H/s, 4.085 sec (346ms)[0m
+[2024-11-18 16:36:53][36m 47.89.195.104:443 yespowerTIDE block 1806896, job 9af5, network diff 0.25639872[0m
+[2024-11-18 16:36:53][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:37:29][01;37m Share 23 submitted diff 0.000114, block 1806896, job 9af5[0m
+[2024-11-18 16:37:29][01;37m [01;37m[32mAccepted [01;37m23/23 (100.0%), diff 0.00011367, 1282.96 H/s, 39.964 sec (347ms)[0m
+[2024-11-18 16:37:44][36m 47.89.195.104:443 yespowerTIDE block 1806897, job 9af6, network diff 0.25639872[0m
+[2024-11-18 16:37:44][36m 47.89.195.104:443 yespowerTIDE block 1806898, job 9af7, network diff 0.25639872[0m
+[2024-11-18 16:38:22][01;37m Share 24 submitted diff 0.000012, block 1806898, job 9af7[0m
+[2024-11-18 16:38:22][01;37m [01;37m[32mAccepted [01;37m24/24 (100.0%), diff 0.00001227, 1207.22 H/s, 53.408 sec (349ms)[0m
+[2024-11-18 16:38:24][01;37m Share 25 submitted diff 0.000090, block 1806898, job 9af7[0m
+[2024-11-18 16:38:24][01;37m [01;37m[32mAccepted [01;37m25/25 (100.0%), diff 0.00008959, 1207.22 H/s, 1.804 sec (346ms)[0m
+[2024-11-18 16:39:20][01;37m Share 26 submitted diff 0.000012, block 1806898, job 9af8[0m
+[2024-11-18 16:39:21][01;37m [01;37m[32mAccepted [01;37m26/26 (100.0%), diff 0.00001241, 1293.75 H/s, 56.654 sec (346ms)[0m
+[2024-11-18 16:39:21][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m08s        10m14s[0m
+                      Share rate        2.14/min     2.54/min[0m
+                      Hash rate       1169.50h/s   1515.65h/s   (1293.75h/s)[0m
+                      Submitted            11           26[0m
+                      Accepted             11           26[0m
+                      Hi/Lo Share Diff  0.00031265 /  0.00000785[0m
+[2024-11-18 16:39:27][01;37m Share 27 submitted diff 0.000010, block 1806898, job 9af8[0m
+[2024-11-18 16:39:27][01;37m [01;37m[32mAccepted [01;37m27/27 (100.0%), diff 0.00000966, 1293.75 H/s, 6.129 sec (350ms)[0m
+[2024-11-18 16:39:34][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:39:43][01;37m Share 28 submitted diff 0.000009, block 1806898, job 9af9[0m
+[2024-11-18 16:39:44][01;37m [01;37m[32mAccepted [01;37m28/28 (100.0%), diff 0.00000927, 1278.26 H/s, 16.725 sec (346ms)[0m
+[2024-11-18 16:40:04][36m 47.89.195.104:443 yespowerTIDE block 1806899, job 9afa, network diff 0.25639872[0m
+[2024-11-18 16:40:13][01;37m Share 29 submitted diff 0.000008, block 1806899, job 9afa[0m
+[2024-11-18 16:40:13][01;37m [01;37m[32mAccepted [01;37m29/29 (100.0%), diff 0.00000837, 1287.13 H/s, 29.670 sec (345ms)[0m
+[2024-11-18 16:40:21][01;37m Share 30 submitted diff 0.000008, block 1806899, job 9afa[0m
+[2024-11-18 16:40:22][01;37m [01;37m[32mAccepted [01;37m30/30 (100.0%), diff 0.00000790, 1287.13 H/s, 8.244 sec (348ms)[0m
+[2024-11-18 16:40:26][01;37m Share 31 submitted diff 0.000012, block 1806899, job 9afa[0m
+[2024-11-18 16:40:27][01;37m [01;37m[32mAccepted [01;37m31/31 (100.0%), diff 0.00001174, 1287.13 H/s, 5.010 sec (349ms)[0m
+[2024-11-18 16:40:46][01;37m Share 32 submitted diff 0.000016, block 1806899, job 9afa[0m
+[2024-11-18 16:40:46][01;37m [01;37m[32mAccepted [01;37m32/32 (100.0%), diff 0.00001641, 1287.13 H/s, 19.370 sec (349ms)[0m
+[2024-11-18 16:40:52][01;37m Share 33 submitted diff 0.000024, block 1806899, job 9afa[0m
+[2024-11-18 16:40:53][01;37m [01;37m[32mAccepted [01;37m33/33 (100.0%), diff 0.00002422, 1287.13 H/s, 6.764 sec (348ms)[0m
+[2024-11-18 16:41:38][36m 47.89.195.104:443 yespowerTIDE block 1806900, job 9afc, network diff 0.25639872[0m
+[2024-11-18 16:41:38][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:42:02][01;37m Share 34 submitted diff 0.000014, block 1806900, job 9afc[0m
+[2024-11-18 16:42:03][01;37m [01;37m[32mAccepted [01;37m34/34 (100.0%), diff 0.00001377, 1280.91 H/s, 70.134 sec (346ms)[0m
+[2024-11-18 16:42:15][01;37m Share 35 submitted diff 0.000638, block 1806900, job 9afc[0m
+[2024-11-18 16:42:15][01;37m [01;37m[32mAccepted [01;37m35/35 (100.0%), diff 0.00063798, 1280.91 H/s, 12.529 sec (346ms)[0m
+[2024-11-18 16:42:21][36m 47.89.195.104:443 yespowerTIDE block 1806901, job 9afd, network diff 0.25639872[0m
+[2024-11-18 16:42:29][01;37m Share 36 submitted diff 0.000011, block 1806901, job 9afd[0m
+[2024-11-18 16:42:29][01;37m [01;37m[32mAccepted [01;37m36/36 (100.0%), diff 0.00001059, 1280.74 H/s, 13.754 sec (346ms)[0m
+[2024-11-18 16:42:29][01;37m Share 37 submitted diff 0.000049, block 1806901, job 9afd[0m
+[2024-11-18 16:42:30][01;37m [01;37m[32mAccepted [01;37m37/37 (100.0%), diff 0.00004944, 1280.74 H/s, 0.614 sec (345ms)[0m
+[2024-11-18 16:42:44][36m 47.89.195.104:443 yespowerTIDE block 1806902, job 9afe, network diff 0.25639872[0m
+[2024-11-18 16:42:59][01;37m Share 38 submitted diff 0.000031, block 1806902, job 9afe[0m
+[2024-11-18 16:42:59][01;37m [01;37m[32mAccepted [01;37m38/38 (100.0%), diff 0.00003059, 1285.77 H/s, 29.201 sec (346ms)[0m
+[2024-11-18 16:43:08][36m 47.89.195.104:443 yespowerTIDE block 1806903, job 9aff, network diff 0.25639872[0m
+[2024-11-18 16:43:10][01;37m Share 39 submitted diff 0.000240, block 1806903, job 9aff[0m
+[2024-11-18 16:43:11][01;37m [01;37m[32mAccepted [01;37m39/39 (100.0%), diff 0.00023961, 1287.68 H/s, 11.666 sec (348ms)[0m
+[2024-11-18 16:43:34][01;37m Share 40 submitted diff 0.000131, block 1806903, job 9aff[0m
+[2024-11-18 16:43:34][01;37m [01;37m[32mAccepted [01;37m40/40 (100.0%), diff 0.00013067, 1287.68 H/s, 23.334 sec (346ms)[0m
+[2024-11-18 16:44:03][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:44:24][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m02s        15m17s[0m
+                      Share rate        2.77/min     2.62/min[0m
+                      Hash rate       1514.06h/s   1515.12h/s   (1287.68h/s)[0m
+                      Submitted            14           40[0m
+                      Accepted             14           40[0m
+                      Hi/Lo Share Diff  0.00063798 /  0.00000785[0m
+[2024-11-18 16:44:24][36m 47.89.195.104:443 yespowerTIDE block 1806904, job 9b01, network diff 0.25639872[0m
+[2024-11-18 16:44:31][01;37m Share 41 submitted diff 0.000009, block 1806904, job 9b01[0m
+[2024-11-18 16:44:31][01;37m [01;37m[32mAccepted [01;37m41/41 (100.0%), diff 0.00000909, 1275.92 H/s, 57.196 sec (346ms)[0m
+[2024-11-18 16:44:57][01;37m Share 42 submitted diff 0.000014, block 1806904, job 9b01[0m
+[2024-11-18 16:44:58][01;37m [01;37m[32mAccepted [01;37m42/42 (100.0%), diff 0.00001380, 1275.92 H/s, 26.680 sec (347ms)[0m
+[2024-11-18 16:45:27][01;37m Share 43 submitted diff 0.000017, block 1806904, job 9b02[0m
+[2024-11-18 16:45:27][01;37m [01;37m[32mAccepted [01;37m43/43 (100.0%), diff 0.00001665, 1283.22 H/s, 29.248 sec (346ms)[0m
+[2024-11-18 16:45:38][36m 47.89.195.104:443 yespowerTIDE block 1806905, job 9b03, network diff 0.25639872[0m
+[2024-11-18 16:45:39][01;37m Share 44 submitted diff 0.000045, block 1806905, job 9b03[0m
+[2024-11-18 16:45:39][01;37m [01;37m[32mAccepted [01;37m44/44 (100.0%), diff 0.00004456, 1279.72 H/s, 12.407 sec (346ms)[0m
+[2024-11-18 16:45:43][01;37m Share 45 submitted diff 0.000009, block 1806905, job 9b03[0m
+[2024-11-18 16:45:43][01;37m [01;37m[32mAccepted [01;37m45/45 (100.0%), diff 0.00000879, 1279.72 H/s, 3.672 sec (349ms)[0m
+[2024-11-18 16:45:57][01;37m Share 46 submitted diff 0.000030, block 1806905, job 9b03[0m
+[2024-11-18 16:45:57][01;37m [01;37m[32mAccepted [01;37m46/46 (100.0%), diff 0.00002970, 1279.72 H/s, 14.409 sec (349ms)[0m
+[2024-11-18 16:46:12][01;37m Share 47 submitted diff 0.000013, block 1806905, job 9b03[0m
+[2024-11-18 16:46:12][01;37m [01;37m[32mAccepted [01;37m47/47 (100.0%), diff 0.00001258, 1279.72 H/s, 14.786 sec (347ms)[0m
+[2024-11-18 16:46:33][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:46:52][36m 47.89.195.104:443 yespowerTIDE block 1806906, job 9b05, network diff 0.25639872[0m
+[2024-11-18 16:48:04][01;37m Share 48 submitted diff 0.000009, block 1806906, job 9b06[0m
+[2024-11-18 16:48:04][01;37m [01;37m[32mAccepted [01;37m48/48 (100.0%), diff 0.00000899, 1283.53 H/s, 111.956 sec (346ms)[0m
+[2024-11-18 16:48:26][01;37m Share 49 submitted diff 0.000059, block 1806906, job 9b06[0m
+[2024-11-18 16:48:26][01;37m [01;37m[32mAccepted [01;37m49/49 (100.0%), diff 0.00005910, 1283.53 H/s, 21.859 sec (346ms)[0m
+[2024-11-18 16:48:27][36m 47.89.195.104:443 yespowerTIDE block 1806907, job 9b07, network diff 0.25639872[0m
+[2024-11-18 16:48:40][36m 47.89.195.104:443 yespowerTIDE block 1806908, job 9b08, network diff 0.25639872[0m
+[2024-11-18 16:48:40][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:48:48][36m 47.89.195.104:443 yespowerTIDE block 1806909, job 9b09, network diff 0.25639872[0m
+[2024-11-18 16:49:22][01;37m Share 50 submitted diff 0.000019, block 1806909, job 9b09[0m
+[2024-11-18 16:49:22][01;37m [01;37m[32mAccepted [01;37m50/50 (100.0%), diff 0.00001909, 1266.30 H/s, 56.174 sec (346ms)[0m
+[2024-11-18 16:49:37][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m12s        20m30s[0m
+                      Share rate        1.92/min     2.44/min[0m
+                      Hash rate       1047.39h/s   1395.97h/s   (1266.30h/s)[0m
+                      Submitted            10           50[0m
+                      Accepted             10           50[0m
+                      Hi/Lo Share Diff  0.00063798 /  0.00000785[0m
+[2024-11-18 16:49:37][36m 47.89.195.104:443 yespowerTIDE block 1806910, job 9b0a, network diff 0.25639872[0m
+[2024-11-18 16:49:52][36m 47.89.195.104:443 yespowerTIDE block 1806911, job 9b0b, network diff 0.25639872[0m
+[2024-11-18 16:49:56][36m 47.89.195.104:443 yespowerTIDE block 1806912, job 9b0c, network diff 0.25639872[0m
+[2024-11-18 16:49:59][01;37m Share 51 submitted diff 0.000008, block 1806912, job 9b0c[0m
+[2024-11-18 16:49:59][01;37m [01;37m[32mAccepted [01;37m51/51 (100.0%), diff 0.00000828, 1262.83 H/s, 37.089 sec (346ms)[0m
+[2024-11-18 16:50:00][01;37m Share 52 submitted diff 0.000009, block 1806912, job 9b0c[0m
+[2024-11-18 16:50:00][01;37m [01;37m[32mAccepted [01;37m52/52 (100.0%), diff 0.00000936, 1262.83 H/s, 0.992 sec (346ms)[0m
+[2024-11-18 16:50:01][01;37m Share 53 submitted diff 0.000025, block 1806912, job 9b0c[0m
+[2024-11-18 16:50:01][01;37m [01;37m[32mAccepted [01;37m53/53 (100.0%), diff 0.00002535, 1262.83 H/s, 0.640 sec (345ms)[0m
+[2024-11-18 16:50:26][01;37m Share 54 submitted diff 0.000029, block 1806912, job 9b0c[0m
+[2024-11-18 16:50:26][01;37m [01;37m[32mAccepted [01;37m54/54 (100.0%), diff 0.00002916, 1262.83 H/s, 25.345 sec (347ms)[0m
+[2024-11-18 16:50:51][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:51:04][01;37m Share 55 submitted diff 0.000008, block 1806912, job 9b0d[0m
+[2024-11-18 16:51:04][01;37m [01;37m[32mAccepted [01;37m55/55 (100.0%), diff 0.00000850, 1281.97 H/s, 38.110 sec (346ms)[0m
+[2024-11-18 16:51:49][01;37m Share 56 submitted diff 0.000008, block 1806912, job 9b0e[0m
+[2024-11-18 16:51:50][01;37m [01;37m[32mAccepted [01;37m56/56 (100.0%), diff 0.00000789, 1283.08 H/s, 45.155 sec (346ms)[0m
+[2024-11-18 16:51:54][01;37m Share 57 submitted diff 0.000010, block 1806912, job 9b0e[0m
+[2024-11-18 16:51:55][01;37m [01;37m[32mAccepted [01;37m57/57 (100.0%), diff 0.00001023, 1283.08 H/s, 5.145 sec (345ms)[0m
+[2024-11-18 16:51:56][01;37m Share 58 submitted diff 0.000076, block 1806912, job 9b0e[0m
+[2024-11-18 16:51:56][01;37m [01;37m[32mAccepted [01;37m58/58 (100.0%), diff 0.00007565, 1283.08 H/s, 1.401 sec (346ms)[0m
+[2024-11-18 16:51:57][01;37m Share 59 submitted diff 0.000060, block 1806912, job 9b0e[0m
+[2024-11-18 16:51:57][01;37m [01;37m[32mAccepted [01;37m59/59 (100.0%), diff 0.00006047, 1283.08 H/s, 1.307 sec (346ms)[0m
+[2024-11-18 16:52:11][01;37m Share 60 submitted diff 0.000010, block 1806912, job 9b0e[0m
+[2024-11-18 16:52:11][01;37m [01;37m[32mAccepted [01;37m60/60 (100.0%), diff 0.00000957, 1283.08 H/s, 13.814 sec (346ms)[0m
+[2024-11-18 16:52:14][01;37m Share 61 submitted diff 0.000012, block 1806912, job 9b0e[0m
+[2024-11-18 16:52:14][01;37m [01;37m[32mAccepted [01;37m61/61 (100.0%), diff 0.00001169, 1283.08 H/s, 3.114 sec (349ms)[0m
+[2024-11-18 16:52:17][01;37m Share 62 submitted diff 0.000008, block 1806912, job 9b0e[0m
+[2024-11-18 16:52:18][01;37m [01;37m[32mAccepted [01;37m62/62 (100.0%), diff 0.00000814, 1283.08 H/s, 3.151 sec (346ms)[0m
+[2024-11-18 16:52:50][01;37m Share 63 submitted diff 0.000008, block 1806912, job 9b0f[0m
+[2024-11-18 16:52:51][01;37m [01;37m[32mAccepted [01;37m63/63 (100.0%), diff 0.00000819, 1281.05 H/s, 33.237 sec (346ms)[0m
+[2024-11-18 16:52:54][01;37m Share 64 submitted diff 0.000055, block 1806912, job 9b0f[0m
+[2024-11-18 16:52:54][01;37m [01;37m[32mAccepted [01;37m64/64 (100.0%), diff 0.00005509, 1281.05 H/s, 3.257 sec (351ms)[0m
+[2024-11-18 16:53:05][36m 47.89.195.104:443 yespowerTIDE block 1806913, job 9b10, network diff 0.25639872[0m
+[2024-11-18 16:53:05][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:53:11][36m 47.89.195.104:443 yespowerTIDE block 1806914, job 9b11, network diff 0.25639872[0m
+[2024-11-18 16:53:31][01;37m Share 65 submitted diff 0.000363, block 1806914, job 9b11[0m
+[2024-11-18 16:53:31][01;37m [01;37m[32mAccepted [01;37m65/65 (100.0%), diff 0.00036301, 1277.52 H/s, 37.460 sec (345ms)[0m
+[2024-11-18 16:53:38][01;37m Share 66 submitted diff 0.001021, block 1806914, job 9b11[0m
+[2024-11-18 16:53:38][01;37m [01;37m[32mAccepted [01;37m66/66 (100.0%), diff 0.00102063, 1277.52 H/s, 6.600 sec (346ms)[0m
+[2024-11-18 16:53:59][36m 47.89.195.104:443 yespowerTIDE block 1806915, job 9b12, network diff 0.25639872[0m
+[2024-11-18 16:54:19][36m 47.89.195.104:443 yespowerTIDE block 1806916, job 9b13, network diff 0.25639872[0m
+[2024-11-18 16:54:22][36m 47.89.195.104:443 yespowerTIDE block 1806917, job 9b14, network diff 0.25639872[0m
+[2024-11-18 16:55:04][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m27s        25m57s[0m
+                      Share rate        2.93/min     2.54/min[0m
+                      Hash rate       1601.27h/s   1439.52h/s   (1277.00h/s)[0m
+                      Submitted            16           66[0m
+                      Accepted             16           66[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000785[0m
+[2024-11-18 16:55:04][36m 47.89.195.104:443 yespowerTIDE block 1806918, job 9b15, network diff 0.25639872[0m
+[2024-11-18 16:55:22][01;37m Share 67 submitted diff 0.000112, block 1806918, job 9b15[0m
+[2024-11-18 16:55:22][01;37m [01;37m[32mAccepted [01;37m67/67 (100.0%), diff 0.00011173, 1279.85 H/s, 104.009 sec (346ms)[0m
+[2024-11-18 16:55:23][01;37m Share 68 submitted diff 0.000016, block 1806918, job 9b15[0m
+[2024-11-18 16:55:23][01;37m [01;37m[32mAccepted [01;37m68/68 (100.0%), diff 0.00001632, 1279.85 H/s, 1.045 sec (349ms)[0m
+[2024-11-18 16:55:59][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:56:31][36m 47.89.195.104:443 yespowerTIDE block 1806919, job 9b17, network diff 0.25639872[0m
+[2024-11-18 16:56:53][36m 47.89.195.104:443 yespowerTIDE block 1806920, job 9b18, network diff 0.25639872[0m
+[2024-11-18 16:56:56][36m 47.89.195.104:443 yespowerTIDE block 1806921, job 9b19, network diff 0.25639872[0m
+[2024-11-18 16:57:00][01;37m Share 69 submitted diff 0.000024, block 1806921, job 9b19[0m
+[2024-11-18 16:57:01][01;37m [01;37m[32mAccepted [01;37m69/69 (100.0%), diff 0.00002382, 1299.12 H/s, 97.450 sec (346ms)[0m
+[2024-11-18 16:57:05][01;37m Share 70 submitted diff 0.000039, block 1806921, job 9b19[0m
+[2024-11-18 16:57:05][01;37m [01;37m[32mAccepted [01;37m70/70 (100.0%), diff 0.00003901, 1299.12 H/s, 4.632 sec (346ms)[0m
+[2024-11-18 16:57:06][01;37m Share 71 submitted diff 0.000021, block 1806921, job 9b19[0m
+[2024-11-18 16:57:07][01;37m [01;37m[32mAccepted [01;37m71/71 (100.0%), diff 0.00002081, 1299.12 H/s, 1.336 sec (345ms)[0m
+[2024-11-18 16:57:13][36m 47.89.195.104:443 yespowerTIDE block 1806922, job 9b1a, network diff 0.25639872[0m
+[2024-11-18 16:57:29][36m 47.89.195.104:443 yespowerTIDE block 1806923, job 9b1b, network diff 0.25639872[0m
+[2024-11-18 16:57:30][36m 47.89.195.104:443 yespowerTIDE block 1806924, job 9b1c, network diff 0.25639872[0m
+[2024-11-18 16:57:37][01;37m Share 72 submitted diff 0.000018, block 1806924, job 9b1c[0m
+[2024-11-18 16:57:37][01;37m [01;37m[32mAccepted [01;37m72/72 (100.0%), diff 0.00001813, 1297.36 H/s, 30.425 sec (346ms)[0m
+[2024-11-18 16:58:06][01;37m Share 73 submitted diff 0.000018, block 1806924, job 9b1c[0m
+[2024-11-18 16:58:06][01;37m [01;37m[32mAccepted [01;37m73/73 (100.0%), diff 0.00001779, 1297.36 H/s, 29.509 sec (349ms)[0m
+[2024-11-18 16:58:07][36m 47.89.195.104:443 yespowerTIDE block 1806925, job 9b1d, network diff 0.25639872[0m
+[2024-11-18 16:58:07][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 16:58:36][01;37m Share 74 submitted diff 0.000183, block 1806925, job 9b1d[0m
+[2024-11-18 16:58:36][01;37m [01;37m[32mAccepted [01;37m74/74 (100.0%), diff 0.00018258, 1282.80 H/s, 29.832 sec (350ms)[0m
+[2024-11-18 16:58:37][01;37m Share 75 submitted diff 0.000008, block 1806925, job 9b1d[0m
+[2024-11-18 16:58:38][01;37m [01;37m[32mAccepted [01;37m75/75 (100.0%), diff 0.00000795, 1282.80 H/s, 1.475 sec (347ms)[0m
+[2024-11-18 16:58:56][01;37m Share 76 submitted diff 0.000011, block 1806925, job 9b1d[0m
+[2024-11-18 16:58:56][01;37m [01;37m[32mAccepted [01;37m76/76 (100.0%), diff 0.00001148, 1282.80 H/s, 18.583 sec (346ms)[0m
+[2024-11-18 16:58:58][01;37m Share 77 submitted diff 0.000008, block 1806925, job 9b1d[0m
+[2024-11-18 16:58:59][01;37m [01;37m[32mAccepted [01;37m77/77 (100.0%), diff 0.00000824, 1282.80 H/s, 2.203 sec (345ms)[0m
+[2024-11-18 16:59:00][36m 47.89.195.104:443 yespowerTIDE block 1806926, job 9b1e, network diff 0.25639872[0m
+[2024-11-18 16:59:06][01;37m Share 78 submitted diff 0.000119, block 1806926, job 9b1e[0m
+[2024-11-18 16:59:06][01;37m [01;37m[32mAccepted [01;37m78/78 (100.0%), diff 0.00011902, 1283.22 H/s, 7.428 sec (345ms)[0m
+[2024-11-18 16:59:32][01;37m Share 79 submitted diff 0.000025, block 1806926, job 9b1e[0m
+[2024-11-18 16:59:32][01;37m [01;37m[32mAccepted [01;37m79/79 (100.0%), diff 0.00002482, 1283.22 H/s, 25.920 sec (347ms)[0m
+[2024-11-18 17:00:19][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m14s        31m12s[0m
+                      Share rate        2.48/min     2.53/min[0m
+                      Hash rate       1352.86h/s   1424.85h/s   (1283.22h/s)[0m
+                      Submitted            13           79[0m
+                      Accepted             13           79[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000785[0m
+[2024-11-18 17:00:19][36m 47.89.195.104:443 yespowerTIDE block 1806927, job 9b20, network diff 0.25639872[0m
+[2024-11-18 17:00:19][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:00:29][01;37m Share 80 submitted diff 0.000022, block 1806927, job 9b20[0m
+[2024-11-18 17:00:30][01;37m [01;37m[32mAccepted [01;37m80/80 (100.0%), diff 0.00002202, 1288.12 H/s, 57.896 sec (347ms)[0m
+[2024-11-18 17:00:34][01;37m Share 81 submitted diff 0.000011, block 1806927, job 9b20[0m
+[2024-11-18 17:00:34][01;37m [01;37m[32mAccepted [01;37m81/81 (100.0%), diff 0.00001060, 1288.12 H/s, 4.067 sec (346ms)[0m
+[2024-11-18 17:00:40][01;37m Share 82 submitted diff 0.000100, block 1806927, job 9b20[0m
+[2024-11-18 17:00:40][01;37m [01;37m[32mAccepted [01;37m82/82 (100.0%), diff 0.00009965, 1288.12 H/s, 6.037 sec (346ms)[0m
+[2024-11-18 17:01:28][01;37m Share 83 submitted diff 0.000106, block 1806927, job 9b21[0m
+[2024-11-18 17:01:28][01;37m [01;37m[32mAccepted [01;37m83/83 (100.0%), diff 0.00010554, 1288.33 H/s, 48.142 sec (346ms)[0m
+[2024-11-18 17:01:38][01;37m Share 84 submitted diff 0.000056, block 1806927, job 9b21[0m
+[2024-11-18 17:01:38][01;37m [01;37m[32mAccepted [01;37m84/84 (100.0%), diff 0.00005582, 1288.33 H/s, 10.046 sec (346ms)[0m
+[2024-11-18 17:03:02][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:04:06][36m 47.89.195.104:443 yespowerTIDE block 1806928, job 9b25, network diff 0.25639872[0m
+[2024-11-18 17:04:19][36m 47.89.195.104:443 yespowerTIDE block 1806929, job 9b26, network diff 0.25639872[0m
+[2024-11-18 17:04:41][36m 47.89.195.104:443 yespowerTIDE block 1806930, job 9b27, network diff 0.25639872[0m
+[2024-11-18 17:04:45][01;37m Share 85 submitted diff 0.000018, block 1806930, job 9b27[0m
+[2024-11-18 17:04:45][01;37m [01;37m[32mAccepted [01;37m85/85 (100.0%), diff 0.00001787, 1289.80 H/s, 186.759 sec (345ms)[0m
+[2024-11-18 17:05:08][36m 47.89.195.104:443 yespowerTIDE block 1806931, job 9b28, network diff 0.25639872[0m
+[2024-11-18 17:05:08][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:05:28][01;37m Share 86 submitted diff 0.000042, block 1806931, job 9b28[0m
+[2024-11-18 17:05:29][01;37m [01;37m[32mAccepted [01;37m86/86 (100.0%), diff 0.00004227, 1289.19 H/s, 43.772 sec (348ms)[0m
+[2024-11-18 17:05:29][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m09s        36m22s[0m
+                      Share rate        1.36/min     2.36/min[0m
+                      Hash rate        740.48h/s   1327.54h/s   (1289.19h/s)[0m
+                      Submitted             7           86[0m
+                      Accepted              7           86[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000785[0m
+[2024-11-18 17:05:53][01;37m Share 87 submitted diff 0.000724, block 1806931, job 9b28[0m
+[2024-11-18 17:05:53][01;37m [01;37m[32mAccepted [01;37m87/87 (100.0%), diff 0.00072381, 1289.19 H/s, 24.395 sec (347ms)[0m
+[2024-11-18 17:06:09][01;37m Share 88 submitted diff 0.000015, block 1806931, job 9b29[0m
+[2024-11-18 17:06:09][01;37m [01;37m[32mAccepted [01;37m88/88 (100.0%), diff 0.00001495, 1288.00 H/s, 15.940 sec (350ms)[0m
+[2024-11-18 17:06:49][01;37m Share 89 submitted diff 0.000072, block 1806931, job 9b29[0m
+[2024-11-18 17:06:50][01;37m [01;37m[32mAccepted [01;37m89/89 (100.0%), diff 0.00007176, 1288.00 H/s, 40.799 sec (346ms)[0m
+[2024-11-18 17:07:46][01;37m Share 90 submitted diff 0.000045, block 1806931, job 9b2a[0m
+[2024-11-18 17:07:46][01;37m [01;37m[32mAccepted [01;37m90/90 (100.0%), diff 0.00004478, 1286.68 H/s, 56.414 sec (346ms)[0m
+[2024-11-18 17:07:53][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:08:00][01;37m Share 91 submitted diff 0.000035, block 1806931, job 9b2b[0m
+[2024-11-18 17:08:01][01;37m [01;37m[32mAccepted [01;37m91/91 (100.0%), diff 0.00003534, 1288.78 H/s, 14.345 sec (345ms)[0m
+[2024-11-18 17:08:07][36m 47.89.195.104:443 yespowerTIDE block 1806932, job 9b2c, network diff 0.25639872[0m
+[2024-11-18 17:08:18][01;37m Share 92 submitted diff 0.000008, block 1806932, job 9b2c[0m
+[2024-11-18 17:08:18][01;37m [01;37m[32mAccepted [01;37m92/92 (100.0%), diff 0.00000779, 1294.91 H/s, 17.891 sec (346ms)[0m
+[2024-11-18 17:08:25][01;37m Share 93 submitted diff 0.000149, block 1806932, job 9b2c[0m
+[2024-11-18 17:08:25][01;37m [01;37m[32mAccepted [01;37m93/93 (100.0%), diff 0.00014867, 1294.91 H/s, 6.629 sec (346ms)[0m
+[2024-11-18 17:08:45][36m 47.89.195.104:443 yespowerTIDE block 1806933, job 9b2d, network diff 0.25639872[0m
+[2024-11-18 17:08:54][36m 47.89.195.104:443 yespowerTIDE block 1806934, job 9b2e, network diff 0.25639872[0m
+[2024-11-18 17:09:05][01;37m Share 94 submitted diff 0.000016, block 1806934, job 9b2e[0m
+[2024-11-18 17:09:05][01;37m [01;37m[32mAccepted [01;37m94/94 (100.0%), diff 0.00001571, 1274.66 H/s, 40.140 sec (346ms)[0m
+[2024-11-18 17:09:15][36m 47.89.195.104:443 yespowerTIDE block 1806935, job 9b2f, network diff 0.25639872[0m
+[2024-11-18 17:09:21][01;37m Share 95 submitted diff 0.000008, block 1806935, job 9b2f[0m
+[2024-11-18 17:09:21][01;37m [01;37m[32mAccepted [01;37m95/95 (100.0%), diff 0.00000801, 1290.15 H/s, 15.688 sec (346ms)[0m
+[2024-11-18 17:09:22][36m 47.89.195.104:443 yespowerTIDE block 1806936, job 9b30, network diff 0.25639872[0m
+[2024-11-18 17:09:48][01;37m Share 96 submitted diff 0.000010, block 1806936, job 9b30[0m
+[2024-11-18 17:09:49][01;37m [01;37m[32mAccepted [01;37m96/96 (100.0%), diff 0.00000961, 1280.73 H/s, 27.670 sec (346ms)[0m
+[2024-11-18 17:10:14][36m 47.89.195.104:443 yespowerTIDE block 1806937, job 9b31, network diff 0.25639872[0m
+[2024-11-18 17:10:14][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:10:24][01;37m Share 97 submitted diff 0.000008, block 1806937, job 9b31[0m
+[2024-11-18 17:10:25][01;37m [01;37m[32mAccepted [01;37m97/97 (100.0%), diff 0.00000802, 1288.91 H/s, 36.061 sec (346ms)[0m
+[2024-11-18 17:10:32][01;37m Share 98 submitted diff 0.000090, block 1806937, job 9b31[0m
+[2024-11-18 17:10:32][01;37m [01;37m[32mAccepted [01;37m98/98 (100.0%), diff 0.00009034, 1288.91 H/s, 7.287 sec (346ms)[0m
+[2024-11-18 17:10:32][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m03s        41m25s[0m
+                      Share rate        2.37/min     2.37/min[0m
+                      Hash rate       1296.64h/s   1323.91h/s   (1288.91h/s)[0m
+                      Submitted            12           98[0m
+                      Accepted             12           98[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000779[0m
+[2024-11-18 17:10:37][36m 47.89.195.104:443 yespowerTIDE block 1806938, job 9b32, network diff 0.25639872[0m
+[2024-11-18 17:11:00][36m 47.89.195.104:443 yespowerTIDE block 1806939, job 9b33, network diff 0.25639872[0m
+[2024-11-18 17:11:09][01;37m Share 99 submitted diff 0.000146, block 1806939, job 9b33[0m
+[2024-11-18 17:11:10][01;37m [01;37m[32mAccepted [01;37m99/99 (100.0%), diff 0.00014641, 1290.76 H/s, 37.707 sec (348ms)[0m
+[2024-11-18 17:11:27][01;37m Share 100 submitted diff 0.000013, block 1806939, job 9b33[0m
+[2024-11-18 17:11:27][01;37m [01;37m[32mAccepted [01;37m100/100 (100.0%), diff 0.00001310, 1290.76 H/s, 17.704 sec (348ms)[0m
+[2024-11-18 17:11:44][01;37m Share 101 submitted diff 0.000016, block 1806939, job 9b33[0m
+[2024-11-18 17:11:44][01;37m [01;37m[32mAccepted [01;37m101/101 (100.0%), diff 0.00001551, 1290.76 H/s, 16.821 sec (349ms)[0m
+[2024-11-18 17:12:03][01;37m Share 102 submitted diff 0.000266, block 1806939, job 9b34[0m
+[2024-11-18 17:12:03][01;37m [01;37m[32mAccepted [01;37m102/102 (100.0%), diff 0.00026618, 1287.71 H/s, 19.207 sec (348ms)[0m
+[2024-11-18 17:12:11][01;37m Share 103 submitted diff 0.000009, block 1806939, job 9b34[0m
+[2024-11-18 17:12:12][01;37m [01;37m[32mAccepted [01;37m103/103 (100.0%), diff 0.00000917, 1287.71 H/s, 8.236 sec (348ms)[0m
+[2024-11-18 17:12:18][01;37m Share 104 submitted diff 0.000010, block 1806939, job 9b34[0m
+[2024-11-18 17:12:18][01;37m [01;37m[32mAccepted [01;37m104/104 (100.0%), diff 0.00000992, 1287.71 H/s, 6.725 sec (348ms)[0m
+[2024-11-18 17:12:30][36m 47.89.195.104:443 yespowerTIDE block 1806940, job 9b35, network diff 0.25639872[0m
+[2024-11-18 17:12:30][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:12:33][01;37m Share 105 submitted diff 0.000022, block 1806940, job 9b35[0m
+[2024-11-18 17:12:34][01;37m [01;37m[32mAccepted [01;37m105/105 (100.0%), diff 0.00002221, 1287.56 H/s, 15.472 sec (350ms)[0m
+[2024-11-18 17:12:56][01;37m Share 106 submitted diff 0.000008, block 1806940, job 9b35[0m
+[2024-11-18 17:12:56][01;37m [01;37m[32mAccepted [01;37m106/106 (100.0%), diff 0.00000768, 1287.56 H/s, 22.352 sec (348ms)[0m
+[2024-11-18 17:13:04][01;37m Share 107 submitted diff 0.000009, block 1806940, job 9b35[0m
+[2024-11-18 17:13:05][01;37m [01;37m[32mAccepted [01;37m107/107 (100.0%), diff 0.00000902, 1287.56 H/s, 8.631 sec (349ms)[0m
+[2024-11-18 17:13:15][36m 47.89.195.104:443 yespowerTIDE block 1806941, job 9b36, network diff 0.25639872[0m
+[2024-11-18 17:13:17][01;37m Share 108 submitted diff 0.000022, block 1806941, job 9b36[0m
+[2024-11-18 17:13:17][01;37m [01;37m[32mAccepted [01;37m108/108 (100.0%), diff 0.00002245, 1290.34 H/s, 12.192 sec (352ms)[0m
+[2024-11-18 17:13:31][36m 47.89.195.104:443 yespowerTIDE block 1806942, job 9b37, network diff 0.25639872[0m
+[2024-11-18 17:13:47][36m 47.89.195.104:443 yespowerTIDE block 1806943, job 9b38, network diff 0.25639872[0m
+[2024-11-18 17:14:07][36m 47.89.195.104:443 yespowerTIDE block 1806944, job 9b39, network diff 0.25639872[0m
+[2024-11-18 17:14:36][36m 47.89.195.104:443 yespowerTIDE block 1806945, job 9b3a, network diff 0.25639872[0m
+[2024-11-18 17:14:36][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:15:13][01;37m Share 109 submitted diff 0.000012, block 1806945, job 9b3a[0m
+[2024-11-18 17:15:14][01;37m [01;37m[32mAccepted [01;37m109/109 (100.0%), diff 0.00001157, 1284.37 H/s, 116.628 sec (349ms)[0m
+[2024-11-18 17:15:24][01;37m Share 110 submitted diff 0.000011, block 1806945, job 9b3a[0m
+[2024-11-18 17:15:25][01;37m [01;37m[32mAccepted [01;37m110/110 (100.0%), diff 0.00001063, 1284.37 H/s, 10.936 sec (349ms)[0m
+[2024-11-18 17:15:39][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m07s        46m32s[0m
+                      Share rate        2.34/min     2.36/min[0m
+                      Hash rate       1279.37h/s   1319.17h/s   (1284.37h/s)[0m
+                      Submitted            12          110[0m
+                      Accepted             12          110[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000768[0m
+[2024-11-18 17:15:39][36m 47.89.195.104:443 yespowerTIDE block 1806946, job 9b3c, network diff 0.25639872[0m
+[2024-11-18 17:16:22][01;37m Share 111 submitted diff 0.000010, block 1806946, job 9b3c[0m
+[2024-11-18 17:16:23][01;37m [01;37m[32mAccepted [01;37m111/111 (100.0%), diff 0.00001018, 1281.46 H/s, 58.168 sec (348ms)[0m
+[2024-11-18 17:16:24][01;37m Share 112 submitted diff 0.000023, block 1806946, job 9b3c[0m
+[2024-11-18 17:16:25][01;37m [01;37m[32mAccepted [01;37m112/112 (100.0%), diff 0.00002262, 1281.46 H/s, 1.828 sec (349ms)[0m
+[2024-11-18 17:16:30][01;37m Share 113 submitted diff 0.000011, block 1806946, job 9b3c[0m
+[2024-11-18 17:16:31][01;37m [01;37m[32mAccepted [01;37m113/113 (100.0%), diff 0.00001077, 1281.46 H/s, 6.240 sec (349ms)[0m
+[2024-11-18 17:16:37][01;37m Share 114 submitted diff 0.000035, block 1806946, job 9b3d[0m
+[2024-11-18 17:16:37][01;37m [01;37m[32mAccepted [01;37m114/114 (100.0%), diff 0.00003512, 1290.13 H/s, 6.128 sec (348ms)[0m
+[2024-11-18 17:16:48][01;37m Share 115 submitted diff 0.000013, block 1806946, job 9b3d[0m
+[2024-11-18 17:16:49][01;37m [01;37m[32mAccepted [01;37m115/115 (100.0%), diff 0.00001337, 1290.13 H/s, 11.893 sec (349ms)[0m
+[2024-11-18 17:16:52][01;37m Share 116 submitted diff 0.000015, block 1806946, job 9b3d[0m
+[2024-11-18 17:16:53][01;37m [01;37m[32mAccepted [01;37m116/116 (100.0%), diff 0.00001498, 1290.13 H/s, 3.952 sec (348ms)[0m
+[2024-11-18 17:17:24][01;37m Share 117 submitted diff 0.000177, block 1806946, job 9b3d[0m
+[2024-11-18 17:17:24][01;37m [01;37m[32mAccepted [01;37m117/117 (100.0%), diff 0.00017737, 1290.13 H/s, 31.407 sec (348ms)[0m
+[2024-11-18 17:17:27][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:17:27][01;37m Share 118 submitted diff 0.000009, block 1806946, job 9b3e[0m
+[2024-11-18 17:17:28][01;37m [01;37m[32mAccepted [01;37m118/118 (100.0%), diff 0.00000879, 1286.88 H/s, 3.614 sec (348ms)[0m
+[2024-11-18 17:17:51][36m 47.89.195.104:443 yespowerTIDE block 1806947, job 9b3f, network diff 0.25639872[0m
+[2024-11-18 17:18:16][01;37m Share 119 submitted diff 0.000009, block 1806947, job 9b3f[0m
+[2024-11-18 17:18:16][01;37m [01;37m[32mAccepted [01;37m119/119 (100.0%), diff 0.00000869, 1287.76 H/s, 48.343 sec (348ms)[0m
+[2024-11-18 17:18:24][36m 47.89.195.104:443 yespowerTIDE block 1806948, job 9b40, network diff 0.25639872[0m
+[2024-11-18 17:18:55][01;37m Share 120 submitted diff 0.000009, block 1806948, job 9b40[0m
+[2024-11-18 17:18:56][01;37m [01;37m[32mAccepted [01;37m120/120 (100.0%), diff 0.00000858, 1289.71 H/s, 39.605 sec (348ms)[0m
+[2024-11-18 17:19:07][01;37m Share 121 submitted diff 0.000015, block 1806948, job 9b40[0m
+[2024-11-18 17:19:08][01;37m [01;37m[32mAccepted [01;37m121/121 (100.0%), diff 0.00001504, 1289.71 H/s, 12.008 sec (349ms)[0m
+[2024-11-18 17:19:17][36m 47.89.195.104:443 yespowerTIDE block 1806949, job 9b41, network diff 0.25639872[0m
+[2024-11-18 17:19:31][36m 47.89.195.104:443 yespowerTIDE block 1806950, job 9b42, network diff 0.25639872[0m
+[2024-11-18 17:19:31][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:19:39][36m 47.89.195.104:443 yespowerTIDE block 1806951, job 9b43, network diff 0.25639872[0m
+[2024-11-18 17:19:48][36m 47.89.195.104:443 yespowerTIDE block 1806952, job 9b44, network diff 0.25639872[0m
+[2024-11-18 17:19:58][36m 47.89.195.104:443 yespowerTIDE block 1806953, job 9b45, network diff 0.25639872[0m
+[2024-11-18 17:20:09][01;37m Share 122 submitted diff 0.000020, block 1806953, job 9b45[0m
+[2024-11-18 17:20:09][01;37m [01;37m[32mAccepted [01;37m122/122 (100.0%), diff 0.00001987, 1291.24 H/s, 61.158 sec (352ms)[0m
+[2024-11-18 17:20:36][01;37m Share 123 submitted diff 0.000024, block 1806953, job 9b45[0m
+[2024-11-18 17:20:36][01;37m Share 124 submitted diff 0.000010, block 1806953, job 9b45[0m
+[2024-11-18 17:20:36][01;37m [01;37m[32mAccepted [01;37m123/124 (99.2%), diff 0.00002370, 1291.24 H/s, 27.186 sec (349ms)[0m
+[2024-11-18 17:20:36][01;37m [01;37m[32mAccepted [01;37m124/124 (100.0%), diff 0.00001028, 1291.24 H/s, 0.116 sec (415ms)[0m
+[2024-11-18 17:20:53][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m13s        51m46s[0m
+                      Share rate        2.68/min     2.39/min[0m
+                      Hash rate       1461.08h/s   1333.51h/s   (1291.24h/s)[0m
+                      Submitted            14          124[0m
+                      Accepted             14          124[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000768[0m
+[2024-11-18 17:21:10][01;37m Share 125 submitted diff 0.000008, block 1806953, job 9b46[0m
+[2024-11-18 17:21:10][01;37m [01;37m[32mAccepted [01;37m125/125 (100.0%), diff 0.00000805, 1286.43 H/s, 34.149 sec (349ms)[0m
+[2024-11-18 17:21:21][01;37m Share 126 submitted diff 0.001012, block 1806953, job 9b46[0m
+[2024-11-18 17:21:21][01;37m [01;37m[32mAccepted [01;37m126/126 (100.0%), diff 0.00101248, 1286.43 H/s, 10.562 sec (350ms)[0m
+[2024-11-18 17:21:49][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:21:52][01;37m Share 127 submitted diff 0.000072, block 1806953, job 9b47[0m
+[2024-11-18 17:21:52][01;37m [01;37m[32mAccepted [01;37m127/127 (100.0%), diff 0.00007171, 1290.08 H/s, 31.150 sec (348ms)[0m
+[2024-11-18 17:21:55][01;37m Share 128 submitted diff 0.000010, block 1806953, job 9b47[0m
+[2024-11-18 17:21:56][01;37m [01;37m[32mAccepted [01;37m128/128 (100.0%), diff 0.00000983, 1290.08 H/s, 3.586 sec (348ms)[0m
+[2024-11-18 17:22:19][01;37m Share 129 submitted diff 0.000020, block 1806953, job 9b47[0m
+[2024-11-18 17:22:20][01;37m [01;37m[32mAccepted [01;37m129/129 (100.0%), diff 0.00002050, 1290.08 H/s, 24.092 sec (349ms)[0m
+[2024-11-18 17:22:26][01;37m Share 130 submitted diff 0.000012, block 1806953, job 9b47[0m
+[2024-11-18 17:22:27][01;37m [01;37m[32mAccepted [01;37m130/130 (100.0%), diff 0.00001166, 1290.08 H/s, 6.830 sec (349ms)[0m
+[2024-11-18 17:22:43][01;37m Share 131 submitted diff 0.000020, block 1806953, job 9b47[0m
+[2024-11-18 17:22:43][01;37m [01;37m[32mAccepted [01;37m131/131 (100.0%), diff 0.00002030, 1289.92 H/s, 16.463 sec (803ms)[0m
+[2024-11-18 17:24:17][36m 47.89.195.104:443 yespowerTIDE block 1806954, job 9b4a, network diff 0.25639872[0m
+[2024-11-18 17:24:17][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:24:23][01;37m Share 132 submitted diff 0.000248, block 1806954, job 9b4a[0m
+[2024-11-18 17:24:23][01;37m [01;37m[32mAccepted [01;37m132/132 (100.0%), diff 0.00024756, 1286.44 H/s, 100.240 sec (348ms)[0m
+[2024-11-18 17:25:26][36m 47.89.195.104:443 yespowerTIDE block 1806955, job 9b4c, network diff 0.25639872[0m
+[2024-11-18 17:26:17][01;37m Share 133 submitted diff 0.000027, block 1806955, job 9b4c[0m
+[2024-11-18 17:26:18][01;37m [01;37m[32mAccepted [01;37m133/133 (100.0%), diff 0.00002691, 1291.22 H/s, 114.463 sec (348ms)[0m
+[2024-11-18 17:26:18][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m24s        57m11s[0m
+                      Share rate        1.66/min     2.33/min[0m
+                      Hash rate        908.92h/s   1293.15h/s   (1291.22h/s)[0m
+                      Submitted             9          133[0m
+                      Accepted              9          133[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000768[0m
+[2024-11-18 17:26:21][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:27:00][36m 47.89.195.104:443 yespowerTIDE block 1806956, job 9b4e, network diff 0.25639872[0m
+[2024-11-18 17:27:05][01;37m Share 134 submitted diff 0.000013, block 1806956, job 9b4e[0m
+[2024-11-18 17:27:05][01;37m [01;37m[32mAccepted [01;37m134/134 (100.0%), diff 0.00001272, 1288.42 H/s, 47.511 sec (348ms)[0m
+[2024-11-18 17:27:28][01;37m Share 135 submitted diff 0.000018, block 1806956, job 9b4e[0m
+[2024-11-18 17:27:28][01;37m [01;37m[32mAccepted [01;37m135/135 (100.0%), diff 0.00001835, 1288.42 H/s, 22.812 sec (351ms)[0m
+[2024-11-18 17:28:50][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:29:05][36m 47.89.195.104:443 yespowerTIDE block 1806957, job 9b51, network diff 0.25639872[0m
+[2024-11-18 17:29:06][01;37m Share 136 submitted diff 0.000012, block 1806957, job 9b51[0m
+[2024-11-18 17:29:06][01;37m [01;37m[32mAccepted [01;37m136/136 (100.0%), diff 0.00001211, 1296.22 H/s, 98.438 sec (348ms)[0m
+[2024-11-18 17:29:20][01;37m Share 137 submitted diff 0.000014, block 1806957, job 9b51[0m
+[2024-11-18 17:29:21][01;37m [01;37m[32mAccepted [01;37m137/137 (100.0%), diff 0.00001373, 1296.22 H/s, 14.043 sec (348ms)[0m
+[2024-11-18 17:29:45][01;37m Share 138 submitted diff 0.000009, block 1806957, job 9b51[0m
+[2024-11-18 17:29:46][01;37m [01;37m[32mAccepted [01;37m138/138 (100.0%), diff 0.00000945, 1296.22 H/s, 25.312 sec (348ms)[0m
+[2024-11-18 17:30:00][01;37m Share 139 submitted diff 0.000017, block 1806957, job 9b51[0m
+[2024-11-18 17:30:01][01;37m [01;37m[32mAccepted [01;37m139/139 (100.0%), diff 0.00001674, 1284.87 H/s, 14.653 sec (417ms)[0m
+[2024-11-18 17:30:14][36m 47.89.195.104:443 yespowerTIDE block 1806958, job 9b53, network diff 0.25639872[0m
+[2024-11-18 17:30:45][01;37m Share 140 submitted diff 0.000020, block 1806958, job 9b53[0m
+[2024-11-18 17:30:46][01;37m [01;37m[32mAccepted [01;37m140/140 (100.0%), diff 0.00002009, 1284.51 H/s, 45.333 sec (349ms)[0m
+[2024-11-18 17:30:55][01;37m Share 141 submitted diff 0.000015, block 1806958, job 9b53[0m
+[2024-11-18 17:30:55][01;37m [01;37m[32mAccepted [01;37m141/141 (100.0%), diff 0.00001451, 1284.51 H/s, 9.460 sec (352ms)[0m
+[2024-11-18 17:31:00][01;37m Share 142 submitted diff 0.000011, block 1806958, job 9b53[0m
+[2024-11-18 17:31:00][01;37m [01;37m[32mAccepted [01;37m142/142 (100.0%), diff 0.00001113, 1284.51 H/s, 4.698 sec (348ms)[0m
+[2024-11-18 17:31:09][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:31:30][01;37m Share 143 submitted diff 0.000010, block 1806958, job 9b54[0m
+[2024-11-18 17:31:31][01;37m [01;37m[32mAccepted [01;37m143/143 (100.0%), diff 0.00000964, 1288.02 H/s, 30.724 sec (351ms)[0m
+[2024-11-18 17:31:31][36m yespowerTIDE: 47.89.195.104:443[0m
+                     [01;37m Periodic Report     5m12s        1h02m[0m
+                      Share rate        1.92/min     2.29/min[0m
+                      Hash rate       1046.95h/s   1272.56h/s   (1288.02h/s)[0m
+                      Submitted            10          143[0m
+                      Accepted             10          143[0m
+                      Hi/Lo Share Diff  0.00102063 /  0.00000768[0m
+[2024-11-18 17:31:36][36m 47.89.195.104:443 yespowerTIDE block 1806959, job 9b55, network diff 0.25639872[0m
+[2024-11-18 17:32:11][01;37m Share 144 submitted diff 0.000017, block 1806959, job 9b55[0m
+[2024-11-18 17:32:12][01;37m [01;37m[32mAccepted [01;37m144/144 (100.0%), diff 0.00001701, 1285.47 H/s, 40.851 sec (348ms)[0m
+[2024-11-18 17:32:18][36m 47.89.195.104:443 yespowerTIDE block 1806960, job 9b56, network diff 0.25639872[0m
+[2024-11-18 17:33:13][01;37m CPU temp: curr 0 C (max 0), Freq: 0.000/0.000 GHz[0m
+[2024-11-18 17:33:19][01;37m Share 145 submitted diff 0.000129, block 1806960, job 9b57[0m
+[2024-11-18 17:33:19][01;37m [01;37m[32mAccepted [01;37m145/145 (100.0%), diff 0.00012939, 1290.87 H/s, 67.370 sec (348ms)[0m
+[2024-11-18 17:33:30][01;37m Share 146 submitted diff 0.000008, block 1806960, job 9b57[0m
+[2024-11-18 17:33:31][01;37m [01;37m[32mAccepted [01;37m146/146 (100.0%), diff 0.00000783, 1290.87 H/s, 11.638 sec (351ms)[0m
+[2024-11-18 17:33:43][01;37m Share 147 submitted diff 0.000009, block 1806960, job 9b57[0m
+[2024-11-18 17:33:44][01;37m [01;37m[32mAccepted [01;37m147/147 (100.0%), diff 0.00000874, 1290.87 H/s, 13.046 sec (349ms)[0m
+[2024-11-18 17:34:34][36m 47.89.195.104:443 yespowerTIDE block 1806961, job 9b59, network diff 0.25639872[0m
+[2024-11-18 17:34:55][36m 47.89.195.104:443 yespowerTIDE block 1806962, job 9b5a, network diff 0.25639872[0m
+[2024-11-18 17:34:55][01;37m Share 148 submitted diff 0.000050, block 1806962, job 9b5a[0m
+[2024-11-18 17:34:55][01;37m [01;37m[32mAccepted [01;37m148/148 (100.0%), diff 0.00005010, 1290.48 H/s, 71.667 sec (348ms)[0m
